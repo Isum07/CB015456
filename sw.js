@@ -5,7 +5,7 @@ self.addEventListener('install', event => {
         caches.open('v1').then(cache => {
             return cache.addAll([
                 'CB015456',  // Update this path
-                '/CB015456/final assignment.html',  // Update this path
+                '/CB015456/index.html',  // Update this path
                 '/CB015456/styles/fn.css',  // Update this path
                 '/CB015456/scripts/script.js',  // Update this path
                 '/CB015456/favicons/favicon-32x32.png',  // Update this path
