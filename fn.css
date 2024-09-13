@@ -1,3 +1,5 @@
+
+/* Header */
 .flex-item1 {
     grid-column-start: 1;
     grid-column-end: 5;
@@ -124,7 +126,7 @@ nav4 {
     height: 100px;
     color: white;
 }
-
+/* Homepage */
 #introduction {
     display: flex;
     justify-content: space-around;
@@ -227,7 +229,7 @@ ol li {
     font-family: 'Times New Roman', Times, serif;
 
 }
-
+/* footer*/
 footer {
     background-color: #8a8a8a;
     padding-top: 40px;
@@ -264,7 +266,7 @@ p3 {
     font-size: 50px;
 
 }
-
+/* about us*/
 #aboutus {
     background-color: #8a8a8a;
 }
@@ -354,7 +356,7 @@ td {
     width: 1000px;
 
 }
-
+/* Services page*/
 #services {
     background-color: #8a8a8a;
     color: white;
@@ -411,13 +413,13 @@ i2 {
 
 
 
-
+/*common*/
 #servicemain {
     background-color: #8a8a8a;
     width: 1420px;
     margin-left: 40px;
 }
-
+/* doctors page*/
 .doctor {
     background-color: #8a8a8a;
     color: white;
@@ -480,7 +482,8 @@ i5 {
     margin: 10px;
 
 }
-
+/* consulting and reservation page*/
+/* Pharmacy page*/
 .form {
     border: 2px solid #000000;
     border-radius: 5px;
